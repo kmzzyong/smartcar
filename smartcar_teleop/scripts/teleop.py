@@ -36,7 +36,7 @@ class Teleop:
 
         cmd.angular.z = 0  
 
-        cmd.angular.z = 0.5  
+        cmd.angular.z = 0.2  
 
  
 
